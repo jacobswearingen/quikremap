@@ -1,6 +1,6 @@
-id=signalremap
-name=signalremap
+id=quikremap
+name=quikremap
 version=1.0
 versionCode=1
-author=torfish
-description=remaps sms key to signal
+author=jacob
+description=remaps sms key to quik
