@@ -6,7 +6,7 @@ while true; do
     getevent $EVENT_DEV | while read -r line; do
         if echo "$line" | grep "0001 001e 00000000"; then
             # replace with preferred messaging app MainActivity
-				am start -n im.molly.app/org.thoughtcrime.securesms.MainActivity
+			am start -n dev.octoshrimpy.quik/.feature.main.MainActivity
         fi
     done
 done
