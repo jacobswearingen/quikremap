@@ -1,3 +1,3 @@
-# signalremap
-I do not plan on maintaining this since it's just a quick fix to launch Signal/Molly.
-Fortunately, you can use the provided code to launch whatever instead as long as you have the name of the package activity. Just replace it in the code and zip the files.
+# quikremap
+Fork of tadateruu/signalremap to create magisk module to launch QUIK 
+>Fortunately, you can use the provided code to launch whatever instead as long as you have the name of the package activity. Just replace it in the code and zip the files.
